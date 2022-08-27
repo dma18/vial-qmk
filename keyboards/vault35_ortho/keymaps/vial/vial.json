@@ -5,7 +5,19 @@
     "cols": 11
   },
   "layouts": {
-    "labels": ["layout_1", "layout_2", "layout_3", "layout_4", "layout_5", "layout_6", "layout_7", "layout_8"],
+    "labels": [
+        [
+            "Bottom Row",
+            "layout_1",
+            "layout_2", 
+            "layout_3", 
+            "layout_4", 
+            "layout_5", 
+            "layout_6", 
+            "layout_7", 
+            "layout_8"
+        ]
+    ],
     "keymap": [
       [
         "0,0",
@@ -63,11 +75,11 @@
         {
           "w": 1.25
         },
-        "1.25\n\n\n0,0",
+        "3,7\n\n\n0,0",
         {
           "w": 1.25
         },
-        "1.25\n\n\n0,0"
+        "3,8\n\n\n0,0"
       ],
       [
         {
